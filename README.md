@@ -1,10 +1,10 @@
 # Optimism RetroPGF 4 Note
 
-Kernel is a modular smart contract acount developed by the amazing ZeroDev - Juniper does not develop or maintain this contract in any way (other than reporting bugs).
+Kernel (original repo here: https://github.com/zerodevapp/kernel) is a modular smart contract acount developed by the amazing ZeroDev - Juniper does not develop or maintain this contract in any way (other than reporting bugs).
 
 The whole point of Kernel is that a common set of battle tested contracts can be used by multiple projects, with the application developer simply implementing plugins or calling into the Kernel contract.
 
-Juniper is not claiming credit for these contracts in any way, shape or form. This fork solely exists as documentation for RetroPGF 4 as it is the source code for the contracts we use.
+Juniper is not claiming credit for these contracts in any way, shape or form. This fork solely exists as documentation for RetroPGF 4 as it is the source code for the contracts we use. 
 
 -- David Young, 5 June 2024
 
